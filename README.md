@@ -31,4 +31,4 @@ Mobile application developed by [@mozzius](https://github.com/mozzius/graysky) o
 # Community Projects
 
 ## [BSky Atlas](https://bsky.jazco.dev/)
-Searchable map of Bluesky users based on connections made through the application (such as posts, likes, etc.). Developed by [@ ericvolp12](https://github.com/ericvolp12/bsky-experiments) on Github and [@jaz.bsky.social](https://staging.bsky.app/profile/jaz.bsky.social) on Bluesky
+Searchable map of Bluesky users based on connections made through the application (such as posts, likes, etc.). Developed by [@ericvolp12](https://github.com/ericvolp12/bsky-experiments) on Github and [@jaz.bsky.social](https://staging.bsky.app/profile/jaz.bsky.social) on Bluesky
